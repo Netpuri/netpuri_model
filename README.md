@@ -81,9 +81,10 @@
 
 ## 3. 모델 학습
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6483300e-7c1d-4fd3-ae01-9d3e0d35a9c2/7e01a3e3-0554-45d6-b50b-ca1b217b1b21/image.png)
+<img width="310" alt="image" src="https://github.com/user-attachments/assets/d1bffcab-b7d9-459b-9afa-d155361bebee">
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6483300e-7c1d-4fd3-ae01-9d3e0d35a9c2/3aaa93b0-ca0d-4263-b9a7-cc67cd9070fa/image.png)
+<img width="464" alt="image (1)" src="https://github.com/user-attachments/assets/0d27237b-3f4a-4074-97c4-79248f37c07b">
+
 
 - **결과 분석**
     - 추가된 데이터로 인해 3번 클래스의 성능이 약간 향상되었으나, 여전히 1번(정치성 글)으로의 오분류가 많았다.
@@ -96,7 +97,8 @@
 - **학습 결과**
     - Hazard Filter 모델은 정상 댓글을 최대한 정확하게 분류하면서 유해 댓글을 탐지하는 데 중점을 두어 학습되었다.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6483300e-7c1d-4fd3-ae01-9d3e0d35a9c2/2a813336-4bc3-4550-b226-1e4f2635cceb/image.png)
+<img width="467" alt="image (2)" src="https://github.com/user-attachments/assets/82409bd0-27c0-4e0c-842c-88dfa85dce77">
+
 
 ## 5. 최종 구조
 
