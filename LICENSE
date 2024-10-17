@@ -22,14 +22,14 @@ SOFTWARE.
 
 The following code is used under the terms of the BSD 3-Clause License:
 
-- **Pandas**
+- pandas
     - Copyright (c) 2008-2011, AQR Capital Management, LLC, Lambda Foundry, Inc. and PyData Development Team
     - All rights reserved.
     - Copyright (c) 2011-2024, Open source contributors.
-- **Scikit-learn**
+- Scikit-learn
     - Copyright (c) 2007-2024 The scikit-learn developers.
     - All rights reserved.
-- **PyTorch**
+- PyTorch
     - Copyright (c) 2016- Facebook, Inc (Adam Paszke)
     - Copyright (c) 2014- Facebook, Inc (Soumith Chintala)
     - Copyright (c) 2011-2014 Idiap Research Institute (Ronan Collobert)
@@ -39,7 +39,7 @@ The following code is used under the terms of the BSD 3-Clause License:
     - Copyright (c) 2006-2010 NEC Laboratories America (Ronan Collobert, Leon Bottou, Iain Melvin, Jason Weston)
     - Copyright (c) 2006 Idiap Research Institute (Samy Bengio)
     - Copyright (c) 2001-2004 Idiap Research Institute (Ronan Collobert, Samy Bengio, Johnny Mariethoz)
-- **Caffe2**
+- Caffe2
     - Copyright (c) 2016-present, Facebook Inc.
     - All contributions by Facebook, Google, Yangqing Jia, Kakao Brain, Cruise LLC, Arm, and other contributors are included.
 
