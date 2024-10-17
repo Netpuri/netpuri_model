@@ -109,22 +109,80 @@
 
 이와 같은 구조로 최종 필터링 시스템을 구축하여 인터넷상에서 부정적인 영향을 미칠 수 있는 다양한 유형의 정보를 효율적으로 필터링할 수 있게 함.
 
-## License and Acknowledgments
+이 프로젝트는 다음의 오픈소스 소프트웨어와 데이터셋을 사용하며, 각 라이브러리는 저작권 표시와 함께 해당 라이선스 조건에 따라 배포됩니다:
 
-This project is licensed under the Apache License 2.0. You may not use this project except in compliance with the License. A copy of the License is included in this repository under the `LICENSE` file.
+## 소프트웨어 라이브러리
 
-This project uses several open-source libraries and datasets. Below are the licenses and acknowledgments for each:
+- Pandas (BSD 3-Clause License)
+    
+    Copyright (c) 2008-2011, AQR Capital Management, LLC, Lambda Foundry, Inc. and PyData Development Team
+    All rights reserved.
+    
+    [BSD 3-Clause License](https://github.com/pandas-dev/pandas/blob/main/LICENSE)
+    
+- Scikit-learn (BSD 3-Clause License)
+    
+    Copyright (c) 2007-2024 The scikit-learn developers.
+    
+    [BSD 3-Clause License](https://github.com/scikit-learn/scikit-learn/blob/main/COPYING)
+    
+- PyTorch (BSD 3-Clause License)
+    
+    Copyright (c) 2016-     Facebook, Inc            (Adam Paszke)
+    
+    [BSD 3-Clause License](https://github.com/pytorch/pytorch/blob/master/LICENSE)
+    
+- Transformers (Hugging Face) (Apache License 2.0)
+    
+    Copyright 2018- The Hugging Face team. All rights reserved.
+    
+    [Apache License 2.0](https://github.com/huggingface/transformers/blob/main/LICENSE)
+    
+- Imbalanced-learn (MIT License)
+    
+    Copyright (c) 2014-2020 The imbalanced-learn developers.
+    All rights reserved.
+    
+    [MIT License](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/LICENSE)
+    
+- NLP-Aug (MIT License)
+    
+    Copyright (c) 2019 Edward Ma
+    
+    [MIT License](https://github.com/makcedward/nlpaug/blob/master/LICENSE)
+    
+- KcELECTRA-base (Beomi) (MIT License)
+    
+    Copyright (c) 2021 Junbum Lee
+    
+    [MIT License](https://github.com/Beomi/KcELECTRA/blob/master/LICENSE)
+    
 
-- **Pandas**: Licensed under the BSD 3-Clause License.
-- **Scikit-learn**: Licensed under the BSD 3-Clause License.
-- **PyTorch**: Licensed under the BSD 3-Clause License.
-- **Transformers (Hugging Face)**: Licensed under the Apache License 2.0.
-- **Imbalanced-learn**: Licensed under the BSD 3-Clause License.
-- **NLP-Aug**: Licensed under the MIT License.
-- **KcELECTRA-base (Beomi)**: Licensed under the MIT License.
-- **YouTube API**: This project complies with the YouTube API Services Terms of Service.
-- **AIHub Datasets**: This project uses datasets provided by AIHub, in compliance with AIHub's terms of use.
-- **Korean Hate Speech Dataset**: This project uses the Korean Hate Speech Dataset, in compliance with the dataset's terms of use.
-- **한국어 감정 정보가 포함된 단발성 대화 데이터셋**: This project uses the dataset provided by AIHub, in compliance with AIHub's terms of use.
-- **텍스트 윤리 검증 데이터셋**: This project uses the dataset provided by AIHub, in compliance with AIHub's terms of use.
-- **감성 대화 말뭉치**: This project uses the dataset provided by AIHub, in compliance with AIHub's terms of use.
+### API 서비스 및 데이터셋
+
+- YouTube API
+    
+    이 프로젝트는 YouTube API를 사용하며, YouTube API Services 이용 약관을 준수합니다. [YouTube API Services Terms of Service](https://developers.google.com/youtube/terms/api-services-terms-of-service)
+    
+- AIHub Datasets
+    
+    AIHub에서 제공하는 데이터셋을 사용하며, AIHub 이용 약관을 준수합니다. [AIHub 이용 약관](https://aihub.or.kr/legal/terms)
+    
+- Korean Hate Speech Dataset
+    
+    데이터셋 이용 약관에 따라 사용하며, 해당 약관을 준수합니다. 각 데이터셋의 공식 홈페이지를 참고하여 이용 약관을 준수하십시오.
+    
+- 한국어 감정 정보가 포함된 단발성 대화 데이터셋 (AIHub)
+    
+    AIHub 이용 약관에 따라 사용하며, 해당 약관을 준수합니다. [AIHub 이용 약관](https://aihub.or.kr/legal/terms)
+    
+- 텍스트 윤리 검증 데이터셋 (AIHub)
+    
+    AIHub 이용 약관에 따라 사용하며, 해당 약관을 준수합니다. [AIHub 이용 약관](https://aihub.or.kr/legal/terms)
+    
+- 감성 대화 말뭉치 (AIHub)
+    
+    AIHub 이용 약관에 따라 사용하며, 해당 약관을 준수합니다. [AIHub 이용 약관](https://aihub.or.kr/legal/terms)
+    
+
+각 라이브러리의 라이선스와 고지 사항을 확인하고, 모든 저작권과 라이선스를 준수하여 소프트웨어를 배포하시기 바랍니다. 또한, 데이터셋과 API는 이용 약관에 따라 사용되므로, 이에 대한 이용 약관을 준수하십시오.
